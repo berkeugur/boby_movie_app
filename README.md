@@ -161,3 +161,8 @@ Future<void> fetchMovies() {
 Yeni katman eklemek veya bir özelliği genişletmek için ilgili klasördeki dosya yapısını izleyerek ilerleyebilirsin. Domain katmanına dokunmadan, UI ve veri katmanlarını değiştirmek bu yapıyla kolaydır.
 
 ---
+
+https://github.com/user-attachments/assets/fefc5c45-5834-4169-afa8-5919e0b5a8b0
+
+
+
